@@ -1,6 +1,6 @@
-Tamara ima 0 pobjeda i 0 poraza!
-Luka ima 0 pobjeda i 0 poraza!
+Tamara ima 1 pobjedu i 2 poraza!
+Luka ima 2 pobjede i 1 poraz!
 
 X . O
 X O 
-O . .
+O X .
